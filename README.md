@@ -1,2 +1,8 @@
-# Horto
-An android application focused towards AR garden design and garden management
+# Horto 🌼
+
+[About](#About)
+
+## About
+An android application based on garden management, using a plant-based API and 
+
+
