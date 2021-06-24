@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/ar_view_scene"
+    tools:context=".ArDesignActivity">
+
+    <Button
+        android:id="@+id/back_design_ar_button"
+        android:layout_width="57dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="16dp"
+        android:background="#00FFFFFF"
+        android:foreground="@drawable/abc_vector_test"
+        android:textStyle="bold"
+        app:backgroundTint="#489345"
+        app:icon="@drawable/abc_vector_test" />
+
+    <android.opengl.GLSurfaceView
+        android:id="@+id/view_design_ar"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="top" />
+
+    <Button
+        android:id="@+id/delete_design_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="28dp"
+        android:background="@drawable/round_corner_purple"
+        android:text="delete"
+        app:layout_anchor="@+id/view_design_ar"
+        app:layout_anchorGravity="end|top" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
