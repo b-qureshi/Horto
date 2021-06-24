@@ -1,6 +1,6 @@
 # 🌼 Horto
 
-[About](#About) ∙ [Overview of Features](#Overview-of-features) ∙ [Installation](#Installation) ∙ [What's Next?](#What's-Next)
+[About](#About) ∙ [Overview of Features](#Overview-of-features) ∙ [What's Next?](#What's-Next)
 
 ## About
 
