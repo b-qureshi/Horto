@@ -24,4 +24,4 @@ Add tasks based on specific plants
 
 ## What's Next?
 
-The 3<sup>rd</sup> of May marked the end of support for the Trefle API, which is unfortunate. This makes Horto, as it stands, unusable, which is why I haven't provided an `.apk` with this repo. However, I am currently working on an improved version of this application using [**Flutter**](https://flutter.dev/) for the main application features and design with [**Unity**](https://unity3d.com) being used to develop the core AR functionality. As for now, this version of the app acts as a proof of concept.
+The 3rd of May marked the end of support for the Trefle API, which is unfortunate. This makes Horto, as it stands, unusable, which is why I haven't provided an `.apk` with this repo. However, I am currently working on an improved version of this application using [**Flutter**](https://flutter.dev/) for the main application features and design with [**Unity**](https://unity3d.com) being used to develop the core AR functionality. As for now, this version of the app acts as a proof of concept.
